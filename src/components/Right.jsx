@@ -87,7 +87,7 @@ const Right = () => {
                     </div>
                     <div class="timeline">
                         <div class="left-tl-content">
-                            <h5 class="tl-title">222222222222222</h5>
+                            <h5 class="tl-title">232232323232323</h5>
                             <p class="para">2016 - 2018</p>
                         </div>
                         <div class="right-tl-content">
