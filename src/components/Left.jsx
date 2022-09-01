@@ -28,7 +28,7 @@ const Left = () => {
                         </li>
                         <li>
                             <i class="fa fa-github" aria-hidden="true"></i>
-                            <a href="https://t.me/NUMO3301" target="_blank" rel="noopener noreferrer">NUMO-UA</a>
+                            <a href="https://github.com/NUMO-UA" target="_blank" rel="noopener noreferrer">NUMO-UA</a>
                         </li>
                         <li>
                             <i class="fa fa-linkedin" aria-hidden="true"></i>
