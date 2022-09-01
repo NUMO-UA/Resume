@@ -23,7 +23,7 @@ const Right = () => {
                         </div>
                         <div class="right-tl-content">
                             <div class="tl-content">
-                                <h5 class="tl-title-2">Developer Exp</h5>
+                                <h5 class="tl-title-2">Developer Experience</h5>
                                 <p class="para">
                                     Я працював на канадську компанію через українську філію на позиції джуніору.
                                     До моїх обов'язків входили фікс багів і виконання завдань, таких як: логінізація, пагінація, логіка кошика, функціонал сторінок.
@@ -85,7 +85,7 @@ const Right = () => {
                     </div>
                 </section>
                 <section class="education sect">
-                    <h2 class="right-title">education</h2>
+                    <h2 class="right-title">Education</h2>
                     <div class="timeline">
                         <div class="left-tl-content">
                             <h5 class="tl-title">Kyiv National University. Taras Shevchenko</h5>
@@ -93,7 +93,7 @@ const Right = () => {
                         </div>
                         <div class="right-tl-content">
                             <div class="tl-content">
-                                <h5 class="tl-title-2">Обучение</h5>
+                                <h5 class="tl-title-2">University</h5>
                                 <p class="para">
                                     Я вступив на ФІТ і провчився 2 роки. Мене не влаштувало навчання в університеті, через 2 роки я забрав документи та зосередився на роботі.
                                     Завдяки ФІТ'у, до цього дня більшість моїх друзів пов'язані з ІТ.
