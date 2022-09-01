@@ -7,6 +7,7 @@ const Left = () => {
             <div className="left-content">
                 <div className="profile">
                     <div className="image">
+                        <img src="https://cdn.discordapp.com/attachments/666273061703647265/1014992689210597437/unknown.png" />
                     </div>
                     <h2 className="name">Nikita Zakharchuk</h2>
                     <p className="career">Frontend Developer</p>
