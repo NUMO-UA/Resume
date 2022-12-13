@@ -18,22 +18,6 @@ const Right = () => {
                     <h2 class="right-title">Experience</h2>
                     <div class="timeline">
                         <div class="left-tl-content">
-                            <h5 class="tl-title">UNIFIED DIGITAL SYSTEMS LLC</h5>
-                            <p class="para">2021-2022</p>
-                        </div>
-                        <div class="right-tl-content">
-                            <div class="tl-content">
-                                <h5 class="tl-title-2">Developer Experience</h5>
-                                <p class="para">
-                                    Я працював на канадську компанію через українську філію на позиції джуніору.
-                                    До моїх обов'язків входили фікс багів та написання функціоналу сторінок.
-                                    Пропрацював я пів роки, мені довелося звільнитися через війну.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="timeline">
-                        <div class="left-tl-content">
                             <h5 class="tl-title">DJ</h5>
                             <p class="para">2015 - 2021</p>
                         </div>
@@ -90,15 +74,6 @@ const Right = () => {
                         <div class="left-tl-content">
                             <h5 class="tl-title">Kyiv National University. Taras Shevchenko</h5>
                             <p class="para">2016 - 2018</p>
-                        </div>
-                        <div class="right-tl-content">
-                            <div class="tl-content">
-                                <h5 class="tl-title-2">University</h5>
-                                <p class="para">
-                                    Я вступив на ФІТ і провчився 2 роки. Мене не влаштувало навчання в університеті, через 2 роки я забрав документи та зосередився на роботі.
-                                    Завдяки ФІТ'у, до цього дня більшість моїх друзів пов'язані з ІТ.
-                                </p>
-                            </div>
                         </div>
                     </div>
                 </section>
