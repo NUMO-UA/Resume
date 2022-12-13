@@ -67,16 +67,7 @@ const Right = () => {
                             </div>
                         </div>
                     </div>
-                </section>
-                <section class="education sect">
-                    <h2 class="right-title">Education</h2>
-                    <div class="timeline">
-                        <div class="left-tl-content">
-                            <h5 class="tl-title">Kyiv National University. Taras Shevchenko</h5>
-                            <p class="para">2016 - 2018</p>
-                        </div>
-                    </div>
-                </section>
+                </section>                
             </div>
         </section>
     )
